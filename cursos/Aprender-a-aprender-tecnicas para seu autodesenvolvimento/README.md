@@ -171,3 +171,46 @@ Além do feedback, aprendemos alguns outros bons hábitos para nos tornarmos um 
 
 Pense sobre os hábitos que vimos no curso. Quais poderiam ser adotados por você na sua rotina de aprendizado? Como você vai colocar em prática?
 ```
+
+## Hábitos para serem criados
+
+1. Várias (e boas) fontes, formatos, autores, professores para eu buscar conhecimento
+2. Curiosidade, fazer perguntas, diversão
+3. Networking, poder da minha rede de contatos, troca de informações
+4. Feedback
+5. Encontre um mentor
+6. Combine teoria e prática (tipos de aprendizados)
+
+```
+Das barreiras físicas e emocionais abaixo, qual a que mais lhe tira o foco? Alguma que você queira incluir na lista?
+
+Distrações na internet como redes sociais, sites e e-mail
+Pop-ups e atualizações no celular de aplicativos como Whatsapp e serviços de compras
+Pessoas que te ligam ou vão até você no momento em que está estudando ou planejando sua atuação
+Mindset fixo, achar que não tem as habilidades para crescer
+Medo de mudança
+Espaço físico inadequado para estudos e planejamento
+Situações ou problemas ainda não resolvidos no trabalho, ou até mesmo da vida pessoal.
+```
+
+```
+Cada um tem suas barreiras mais e menos críticas. Quais são suas duas barreiras que mais atrapalham? Como e quando elas acontecem?
+
+Agora, para cada uma delas, defina um plano de ação para colocar em prática e evitar que elas atrapalhem sua rotina.
+```
+
+### O que aprendemos nesta aula:
+
+- Zona de conforto e Zona de Aprendizagem;
+- Importância de sair da zona de estresse;
+- Estado de flow, felicidade, empolgação;
+- Direção é mais importante que velocidade;
+- Um pouquinho todo dia gera muitas horas de aprendizado;
+- Um hábito demora tempo para ser criado, não desista no meio;
+- Crie bons hábitos;
+- Dicas de hábitos de um bom aprendiz;
+- Ralos de Atenção;
+- Barreiras físicas e emocionais;
+- Distrações;
+- Ansiedade;
+- Celebração.
