@@ -85,3 +85,89 @@ David Allen Kolb
 - Pessoas diferentes aprendem em tempos e formatos diferentes
 - Teoria do Kolb
 - Estilos de Aprendizagem
+
+# 2. Talento ou Disciplina?
+
+## Zona de aprendizagem
+
+Zona de conforto -> zona de entusiasmo -> zona de estresse -> zona de aprendizagem
+Não é possível pular as zonas, mas posso diminuir o tempo durante elas
+
+[Como motivar na crise](https://pensadorh.wordpress.com/2016/04/18/como-motivar-na-crise/)
+
+Lembretes
+- Aprendizagem não ocorre na zona de conforto
+- Fique perto de gente melhor que você! Se desafie a ser mais, a ir além
+- Encontro seu ponto de equilíbrio do Flow
+
+Pense em uma situação de aprendizagem que você já viveu e que teve dificuldades em sair da zona de estresse. Como foi essa situação? O que o deixou preso na zona de estresse?
+R:
+
+Agora liste 3 atitudes diferentes que você pode ter na próxima vez para não cometer os mesmos erros e passar rapidamente para a zona de Aprendizagem.
+R: 
+
+## Disciplina
+
+**DIREÇÃO** é mais importante que **VELOCIDADE**
+
+Disciplina é questão de hábito
+
+[link para curso de hábitos da Aluna no meu github](https://)
+
+Maxwell Maltz, 1960, 21 days a Habit
+
+Phillippa Lally, 2009, 66 days 
+
+### Hábitos
+1. Disposição: Momento que desencadeia a ação, gatilho 
+2. Rotina: A ação sendo repetida
+3. Recompensa: Resultado positivo no fum que motiva a continuar
+
+No processo de aprendizagem é interessante que tenhamos algo prático e tangível como recompensa, e que possamos aplicar o que aprendemos.
+
+Aprendemos até agora:
+- Lifelonf Learning
+- Autoconhecimento e propósito
+- Estilo individual de aprendizagem
+- Zona de aprendizagem e Disciplina
+
+## Elimine Barreiras
+
+Ralos de atenção -> Aquilo que captura nossa atenção e leva embora, afasta daquilo em que realmente deveria estar repousada.
+
+Remover as barreiras
+- Falta de Tempo: ou será que não priorizo as atividades importantes, gerenciar meu tempo
+- Distrações na internet: Criar espaços na minha agenda, o cérebro demora para voltar depois de uma distração
+- Pensar em outras tarefas a serem feitas: Isso vai acontecer sempre, mas quando uma ideia passar é possível anotar ela, mas a um custo de atenção
+- Não organizar antes de iniciar: é necessário organizar antes para que não pense em outras tarefas.
+- Pessoas que te ligam ou vão até você: Isso vai acontecer, mas pode ser combinado que elas não interrompam você
+- Achar que não posso crescer, medo de mudança: questão de disciplina e vou ser bom no que estiver estudando. Aprendizagem não é questão de talento
+- Ansiedade: Fazer um momento de relaxamento antes de começar a estudar, uma tecnica é tapar uma narina e inspirar, depois tapar a outra narina e expirar. Umas 5 vezes. Expirar de maneira mais devagar do que inspirar
+- Falta de celebração: Precisamos celebrar a recompensa dos nossos ganhos nos estudos:
+  - Tomar um sorvete
+  - Comer algo diferente
+  - Comprar um presente
+  - Ver algo na internet
+  - Passar um tempo com alguém
+
+```
+A prática do feedback
+
+Saber o que aprender é o primeiro passo para ser um bom “aprendedor” e se tornar um especialista na sua área de atuação. Além do autoconhecimento, o feedback é uma excelente prática para se desenvolver.
+
+Convido você a levantar pelo menos 3 feedbacks com colegas de trabalho, gestor, ex-gestor ou até amigos mais próximos, com foco em atitudes que você poderia:
+
+Continuar fazendo
+Parar de fazer
+Começar a fazer
+Priorize dentre as sugestões duas coisas que você poderia focar agora no seu plano de desenvolvimento.
+
+```
+
+```
+Outros bons hábitos
+
+Além do feedback, aprendemos alguns outros bons hábitos para nos tornarmos um ótimo Lifelong Learner.
+
+Pense sobre os hábitos que vimos no curso. Quais poderiam ser adotados por você na sua rotina de aprendizado? Como você vai colocar em prática?
+```
