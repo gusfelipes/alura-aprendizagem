@@ -214,3 +214,62 @@ Agora, para cada uma delas, defina um plano de ação para colocar em prática e
 - Distrações;
 - Ansiedade;
 - Celebração.
+
+# 3. Desvendando o Cérebro
+
+## Mindset fixo e de crescimento
+
+Livro: Mindset -> Carol S. Djweck
+
+Dois tipos de Mindset:
+- Fixo: De acordo com o livro, que nos dificulta a aprender novas habilidades
+- Crescimento: De cordo com o livro, impulsiona e facilita nosso processo de aprendizagem
+
+| Mindset Fixo                               | Mindset Crescimento                          |
+| ------------------------------------------ | -------------------------------------------- |
+| Quantidade de inteligência é algo limitado | A quantidade de inteligência é ilimitada     |
+| Sou bom apenas em certas coisas            | Posso ser bom em qualquer coisa              |
+| Desisto quando fica muito difícil          | Vamos fazer dar certo!                       |
+| Não me sinto bem com grandes desafios      | Adoro grandes desafios                       |
+| Feedback é uma crítica                     | Feedback é uma ajuda para crescer            |
+| Prefiro fazer coisas que já sei            | Gosto de aprender a fazer coisas que não sei |
+
+
+[Carol Dweck Revisits the 'Growth Mindset'](https://caelum-online-public.s3.amazonaws.com/1504-aprenda-a-aprender/03/carol+dweck+growth+mindsets.pdf)
+
+Será que o Mindset pode mudar ao longo da vida?
+- Busca inspiração em Mentores
+- Autoconfiança
+- Aproveite as oportunidades
+- Motivação e foco
+- Dedicação
+
+```
+Como Podemos moldar nosso mindset e reforçar o modelo mental de crescimento?
+
+Lembre de duas possibilidades que ensinamos no curso e pense como você pode colocar em prática no seu dia a dia.
+```
+
+## Modos Focado e Difuso
+
+Modelo focado: Nosso cérebro está focado na soução de problemas pontuais, usando caminhos recorrentes, utilizando metologias familiares
+Modelo difuso: Nosso cérebro está distraído, sem metodologia conhecida, acaba achando novos caminhos
+
+| Focado               | Difuso                 |
+| -------------------- | ---------------------- |
+| Concentração         | Visão Ampliada         |
+| Repetir padrões      | Conexões inconscientes |
+| Planejado            | Aleatório              |
+| Problemas conhecidos | Novas soluções         |
+
+Como colocar o modo difuso para trabalhar?
+- Estudar mais de um tema por vez
+- Ler dois livros ao mesmo tempo
+- Ter um emprego e um projeto voluntário
+- Não abrir mão dos momentos de ócio
+
+
+```
+Por que é tão importante despertar o modo difuso de funcionamento do cérebro? O que ele faz? E como podemos ativar o funcionamento desse modo?
+
+```
