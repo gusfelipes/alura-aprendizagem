@@ -268,8 +268,120 @@ Como colocar o modo difuso para trabalhar?
 - Ter um emprego e um projeto voluntário
 - Não abrir mão dos momentos de ócio
 
-
 ```
 Por que é tão importante despertar o modo difuso de funcionamento do cérebro? O que ele faz? E como podemos ativar o funcionamento desse modo?
+```
+
+### Formatos de aprendizagem
+
+Aprendendo as melhores maneiras de aprender de forma eficiente, mas algo é fato: existe vários caminhos possíveis e algum vai servir para mim
+
+| Caminho auditivo         | Caminho visual | Caminho leitura/escrita | Caminhos cinestésico |
+| ------------------------ | -------------- | ----------------------- | -------------------- |
+| podcast                  | infográficos   | livros                  | eventos              |
+| audio books              | power points   | sites                   | on the job/carona    |
+| ouvir gravações de aulas | TEDs           | blogs                   | projetos             |
+|                          | video aulas    | artigos                 |                      |
+|                          | mapa mental    | resumos                 |                      |
+
+Utilizando somente um desses caminhos, estou utilizando meu cérebro pelo modo focado, sem utilizar ele de modo difuso. A melhor maneira é utilizar todos os caminhos, misturando eles.
+
+#### Como Aprendemos por *Willian Glasser*
+![piramide como aprendemos](img/piramide.jpg)
 
 ```
+Agora que você já conhece os formatos de aprendizagem e a maneira de aproveitar melhor cada um deles, chegou a hora de saber qual é o seu formato preferido, e assim poder aproveitar seu potencial máximo de autodesenvolvimento.
+
+Mas lembre-se, é importante aproveitar todos os estilos e misturá-los, assim você ganha mais fontes e ferramentas para se tornar um super Lifelong Learner.
+```
+[https://vark-learn.com/the-vark-questionnaire/](https://vark-learn.com/the-vark-questionnaire/)
+
+### Prática distribuída x Cramming
+
+> Eu estudo, mas escueço tudo logo depois e não sei o que fazer!
+#### Fala recorrente
+
+Curva de Ebbinghaus
+![curva de ebbinghaus](img/curva-ebbinghaus.png)
+
+Em 1885, Ebbinghaus estudou a capacidade da memória de reconhecimento ao longo do tempo. Em média, as pessoas quando estudam algo, depois de 10 minutos ainda retêm esse conhecimento 100%. Depois de 24h, essa porcentagem cai para 40%. Passada uma semana, o valor cai novamente e chega a 20% e depois de um mês 10%.
+
+Ebbinghaus descobriu o **poder das revisões**.
+
+Depois de uma hora fazemos a revisão do que aprendemos, então depois de 24h fazemos novamente uma revisão, e assim sucessivamente, até que nosso cérebro de fato solidifique esse saber. As revisões são muito poderosas em construir memórias fixas.
+
+#### cramming
+Aprender basicamente altos volumes de conteúdo em curto prazo, para decorar. É útil para informações utilizadas em menos de 24hs.
+
+A melhor forma de fixar conhecimento é realizar a **prática distribuída**, que consiste em uma linha do tempo distribuímos os estudos para que parte desses momentos façam parte das revisões, utilizando a piramide e vários formatos diferentes de aprendizagem. 
+
+
+```
+Prática distribuída ou Cramming? Qual dos dois funciona melhor para um processo de aprendizagem mais eficaz? Por quê?
+R:
+```
+
+### Memória de longo prazo
+
+Aprendizagem é o processo de **adquirir informação** para **memória de longo prazo**, juntar diferentes **blocos de conhecimento** e **saber aplicar**
+
+- Conhecimento precisa de **tempo** para se tornar aprendizado
+- Precisa integrar diferentes conhecimentos
+- Necessário de ideias e impactos
+- Descontruir uma habilidade em sub-habilidades, pequenas partes a serem aprendidas (modo difuso)
+- Blocos (Chunks)
+  - Pequenos grupos de informação
+  - Informação com mesmo significado
+  - Uma macroideia
+  - Fácil de lembrar
+  - Mais facilmentes absorvidos
+- Como formar blocos?
+  - Palavras
+    - Substantivos
+    - Verbos
+    - Preposições e conjunções
+  - Frases
+    - Afirmações
+    - Perguntas
+    - Comentários
+  - Parágrafos
+    - Histórias
+    - Reflexões
+    - Explicações
+- Como Gravar um Bloco?
+  - Decorar x entender
+  - Foco na hora de estudar
+  - Conhecer o contexto de utilização
+  - Assimilar a outros blocos de conhecimento
+  - Saber aplicar sozinho
+
+> Aplicar em diferentes situações e revisar por diferentes métodos faz seu cérebro saber acessar por diferentes caminhos
+
+> **DISCIPLINA**
+
+```
+O que a construção de um muro tem em comum com a construção de memórias de longo prazo?
+R:
+```
+
+```
+Pense no próximo desafio de aprendizado que você tem. Como você pode, com base nos exemplos do curso, quebrá-lo em pequenos blocos e organizar seu processo de aprendizagem?
+R:
+```
+
+### O que aprendemos nesta aula:
+
+- Como o cérebro funciona no processo de aprendizagem
+- Mindset fixo x mindset de crescimento
+- Que crenças podem fortalecer meu mindset de crescimento
+- O papel do Professor no fortalecimento do Mindset de Crescimento
+- Modelo focado e difuso
+- Como cérebro faz novas conexões
+- Importância dos momentos de ócio para criatividade e aprendizado
+- Formatos de aprendizagem diferentes para estilos e momentos diferentes
+- Importância de misturar os formatos para potencializar o poder do cérebro
+- Pirâmide de Willian Glasser
+- Curva do esquecimento de Ebbinghaus
+- O poder das revisões ao longo do tempo
+- Cramming: decorar altos volumes de informação funciona?
+- Prática distribuída ao longo do tempo
