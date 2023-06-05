@@ -385,3 +385,102 @@ R:
 - O poder das revisões ao longo do tempo
 - Cramming: decorar altos volumes de informação funciona?
 - Prática distribuída ao longo do tempo
+
+# 4. Poder das Metas
+
+## Definindo a meta
+
+> O que pode ser medido, pode ser melhorado
+#### Petter Drucker
+
+- Por que quero aprender?
+- Onde vou aplicar?
+- Quando quero estar pronto?
+
+Minhas metas para o BPMN
+- Quero aprender para utlizar na proxima tarefa 
+- Nos refinamentos das proximas HEs
+- 1 semana
+
+## Método SMART para aprendizagem
+
+Criado pelo Peter Drucker
+
+| Letra | Inglês     | Português         |
+| ----- | ---------- | ----------------- |
+| S     | Specific   | eSpecífica        |
+| M     | Measurable | Mensurável        |
+| A     | Achievable | Atingível         |
+| R     | Relevant   | Relevante         |
+| T     | Timely     | Tempo determinado |
+
+Exemplo:
+- Construir uma funcionalidade no Sistema XPTO na nova linguagem
+- Funcional e tem boa usabilidade: Teste com usuário
+- Ok (verificar com colegas tempo que levaram para aprender e aplicar)
+- Fundamental para o próximo passo de carreira
+- em 60 dias
+
+Minhas metas
+- Aprender a utilizar a ferramenta Bizagi e o BPMN
+- Vai melhorar o entendimento dos processos e tarefas que acontecem no Cockpit do Gestor
+- Sim, com estudos é possível
+- Vai ajudar na minha carreira
+- em 1 semana
+
+## Níveis de Mensuração
+
+| Letra | Inglês     | Português  |
+| ----- | ---------- | ---------- |
+| M     | Measurable | Mensurável |
+
+Exemplo:
+- Construir uma funcionalidade no Sistema XPTO na nova linguagem
+- Funcional e tem boa usabilidade: Teste com usuário
+
+Algumas métricas:
+- Estou satisfeito com o processo de aprendizagem?
+- Estou conseguindo lembrar do que aprendo?
+- Estou conseguindo aplicar o que aprendo?
+- Estou (ou poderei em breve) gerar resultado?
+
+Kirkpratrick - Modelo de avalição de aprendizado
+
+![piramide modelo de avaliação de aprendizado](img/piramide-kirk.jpg)
+
+Régua de mensuração
+![régua de mensuração](img/regua-mensuracao.jpg)
+
+Podemos montar vizualizar a pirâmide aplicando a tabela abaixo
+
+|                                                                        | De 0 a 100, qual nota você dá para esta etapa no seu ultimo processo de aprendizagem? |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Resultado** Quanto estou (ou poderei em breve) gerar resultado?      |                                                                                       |
+| **Aplicação** Quanto estou conseguindo aplicar o que aprendo?          |                                                                                       |
+| **Conhecimento** Quanto estou conseguindo lembrar o que aprendo?       |                                                                                       |
+| **Satisfação** Quanto estou satisfeito com o processo de aprendizagem? |                                                                                       |
+| Dedicação                                                              |                                                                                       |
+
+```
+Usando a tabela acima, pensar sobre algo que estudei e fazer uma reflexão
+R:
+```
+
+## Medindo a evolução
+
+Blocos de informação
+
+
+### O que aprendemos nesta aula:
+
+- Só se melhora aquilo que se mede
+- Razões para aprender
+- Definir onde e quando vou usar meu aprendizado
+- Método SMART aplicado no aprendizado
+- Exemplos reais de metas SMART
+- Modelo de KirkPatrick
+- Medição do processo de aprendizagem
+- Saber se estou aprendendo e aplicando para chegar no resultado
+- Medindo os blocos de aprendizagem
+- Uma matriz para acompanhar a evolução
+- Quantos planos de estudo eu posso ter?
