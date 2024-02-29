@@ -2,8 +2,7 @@
 
 Modelo de educação não nos ensinou a aprender
 
-
-E se aprender fosse uma tecnica 
+E se aprender fosse uma técnica
 
 Criar experiências poderosas
 Autoconhecimento e propósito
@@ -14,9 +13,9 @@ Hábitos bons e recorrentes
 Técnicas efetivas de aprendizagem
 Ferramentas que facilitam a vida
 
-## Lifelong Learging
+## Lifelong Learning
 
-> O Analfabeto do séulo 21 não é aquele que não sabe ler e escrever, mas aquele que não sabe aprender, desaprender e reaprender
+> O Analfabeto do século 21 não é aquele que não sabe ler e escrever, mas aquele que não sabe aprender, desaprender e reaprender
 
 *Alvin Toffler*
 
@@ -112,7 +111,7 @@ R:
 
 Disciplina é questão de hábito
 
-[link para curso de hábitos da Aluna no meu github](https://)
+[link para curso de hábitos da Alura no meu github](https://)
 
 Maxwell Maltz, 1960, 21 days a Habit
 
@@ -126,7 +125,7 @@ Phillippa Lally, 2009, 66 days
 No processo de aprendizagem é interessante que tenhamos algo prático e tangível como recompensa, e que possamos aplicar o que aprendemos.
 
 Aprendemos até agora:
-- Lifelonf Learning
+- Lifelong Learning
 - Autoconhecimento e propósito
 - Estilo individual de aprendizagem
 - Zona de aprendizagem e Disciplina
@@ -142,7 +141,7 @@ Remover as barreiras
 - Não organizar antes de iniciar: é necessário organizar antes para que não pense em outras tarefas.
 - Pessoas que te ligam ou vão até você: Isso vai acontecer, mas pode ser combinado que elas não interrompam você
 - Achar que não posso crescer, medo de mudança: questão de disciplina e vou ser bom no que estiver estudando. Aprendizagem não é questão de talento
-- Ansiedade: Fazer um momento de relaxamento antes de começar a estudar, uma tecnica é tapar uma narina e inspirar, depois tapar a outra narina e expirar. Umas 5 vezes. Expirar de maneira mais devagar do que inspirar
+- Ansiedade: Fazer um momento de relaxamento antes de começar a estudar, uma técnica é tapar uma narina e inspirar, depois tapar a outra narina e expirar. Umas 5 vezes. Expirar de maneira mais devagar do que inspirar
 - Falta de celebração: Precisamos celebrar a recompensa dos nossos ganhos nos estudos:
   - Tomar um sorvete
   - Comer algo diferente
@@ -185,7 +184,7 @@ Pense sobre os hábitos que vimos no curso. Quais poderiam ser adotados por voc�
 Das barreiras físicas e emocionais abaixo, qual a que mais lhe tira o foco? Alguma que você queira incluir na lista?
 
 Distrações na internet como redes sociais, sites e e-mail
-Pop-ups e atualizações no celular de aplicativos como Whatsapp e serviços de compras
+Pop-ups e atualizações no celular de aplicativos como WhatsApp e serviços de compras
 Pessoas que te ligam ou vão até você no momento em que está estudando ou planejando sua atuação
 Mindset fixo, achar que não tem as habilidades para crescer
 Medo de mudança
@@ -252,7 +251,7 @@ Lembre de duas possibilidades que ensinamos no curso e pense como você pode col
 
 ## Modos Focado e Difuso
 
-Modelo focado: Nosso cérebro está focado na soução de problemas pontuais, usando caminhos recorrentes, utilizando metologias familiares
+Modelo focado: Nosso cérebro está focado na solução de problemas pontuais, usando caminhos recorrentes, utilizando metologias familiares
 Modelo difuso: Nosso cérebro está distraído, sem metodologia conhecida, acaba achando novos caminhos
 
 | Focado               | Difuso                 |
@@ -286,7 +285,7 @@ Aprendendo as melhores maneiras de aprender de forma eficiente, mas algo é fato
 
 Utilizando somente um desses caminhos, estou utilizando meu cérebro pelo modo focado, sem utilizar ele de modo difuso. A melhor maneira é utilizar todos os caminhos, misturando eles.
 
-#### Como Aprendemos por *Willian Glasser*
+#### Como Aprendemos por *William Glasser*
 ![piramide como aprendemos](img/piramide.jpg)
 
 ```
@@ -298,11 +297,11 @@ Mas lembre-se, é importante aproveitar todos os estilos e misturá-los, assim v
 
 ### Prática distribuída x Cramming
 
-> Eu estudo, mas escueço tudo logo depois e não sei o que fazer!
+> Eu estudo, mas esqueço tudo logo depois e não sei o que fazer!
 #### Fala recorrente
 
 Curva de Ebbinghaus
-![curva de ebbinghaus](img/curva-ebbinghaus.png)
+![curva de Ebbinghaus](img/curva-ebbinghaus.png)
 
 Em 1885, Ebbinghaus estudou a capacidade da memória de reconhecimento ao longo do tempo. Em média, as pessoas quando estudam algo, depois de 10 minutos ainda retêm esse conhecimento 100%. Depois de 24h, essa porcentagem cai para 40%. Passada uma semana, o valor cai novamente e chega a 20% e depois de um mês 10%.
 
@@ -328,13 +327,13 @@ Aprendizagem é o processo de **adquirir informação** para **memória de longo
 - Conhecimento precisa de **tempo** para se tornar aprendizado
 - Precisa integrar diferentes conhecimentos
 - Necessário de ideias e impactos
-- Descontruir uma habilidade em sub-habilidades, pequenas partes a serem aprendidas (modo difuso)
+- Desconstruir uma habilidade em sub-habilidades, pequenas partes a serem aprendidas (modo difuso)
 - Blocos (Chunks)
   - Pequenos grupos de informação
   - Informação com mesmo significado
   - Uma macroideia
   - Fácil de lembrar
-  - Mais facilmentes absorvidos
+  - Mais facilmente absorvidos
 - Como formar blocos?
   - Palavras
     - Substantivos
@@ -380,7 +379,7 @@ R:
 - Importância dos momentos de ócio para criatividade e aprendizado
 - Formatos de aprendizagem diferentes para estilos e momentos diferentes
 - Importância de misturar os formatos para potencializar o poder do cérebro
-- Pirâmide de Willian Glasser
+- Pirâmide de William Glasser
 - Curva do esquecimento de Ebbinghaus
 - O poder das revisões ao longo do tempo
 - Cramming: decorar altos volumes de informação funciona?
@@ -391,15 +390,16 @@ R:
 ## Definindo a meta
 
 > O que pode ser medido, pode ser melhorado
-#### Petter Drucker
+> 
+> *Petter Drucker*
 
 - Por que quero aprender?
 - Onde vou aplicar?
 - Quando quero estar pronto?
 
 Minhas metas para o BPMN
-- Quero aprender para utlizar na proxima tarefa 
-- Nos refinamentos das proximas HEs
+- Quero aprender para utilizar na proxima tarefa 
+- Nos refinamentos das próximas HEs
 - 1 semana
 
 ## Método SMART para aprendizagem
@@ -444,14 +444,14 @@ Algumas métricas:
 - Estou conseguindo aplicar o que aprendo?
 - Estou (ou poderei em breve) gerar resultado?
 
-Kirkpratrick - Modelo de avalição de aprendizado
+Kirkpatrick - Modelo de avaliação de aprendizado
 
 ![piramide modelo de avaliação de aprendizado](img/piramide-kirk.jpg)
 
 Régua de mensuração
 ![régua de mensuração](img/regua-mensuracao.jpg)
 
-Podemos montar vizualizar a pirâmide aplicando a tabela abaixo
+Podemos montar visualizar a pirâmide aplicando a tabela abaixo
 
 |                                                                        | De 0 a 100, qual nota você dá para esta etapa no seu ultimo processo de aprendizagem? |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
