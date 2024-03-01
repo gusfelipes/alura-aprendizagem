@@ -21,13 +21,15 @@ Ferramentas que facilitam a vida
 
 Carreiras não são mais sequências de posições, são sequências de experiências
 
-Agora, faça uma reflexão sobre seu papel como profissional:
+### O seu Papel como profissional
 
+Agora, faça uma reflexão sobre seu papel como profissional:
 - Qual habilidade sua que era fundamental 5 anos atrás e hoje já não é mais?
   - Entender circuitos eletrônicos, pois minha profissão era testar equipamentos eletrônicos. 
 - No seu Mercado, o que está mudando? O que deveria ser um ponto de estudos seu agora?
   - Está sedo discutido a utilização de Inteligência Artificial para a programação e deveria começar a estudar esses utilizações.
-
+  
+Caso queira discutir no [Discord da Alura](https://discord.com/channels/834111810725871677/@home)
 
 ## Razões para Aprender
 
@@ -47,7 +49,7 @@ IKIGAI
 
 ### Reflexão
 
-PEnsando em um intervalo de 1 ano
+Pensando em um intervalo de 1 ano
 - Qual seu Ikigai?
   - Aquilo que você ama
     - Ensinar pessoas a mexer em eletrônicos
@@ -62,9 +64,18 @@ PEnsando em um intervalo de 1 ano
 - Quais são suas razões para Aprender algo?
 - Onde você quer se aprofundar?
 
+Caso queira discutir no [Discord da Alura](https://discord.com/channels/834111810725871677/@home)
+
 ## Estilos de Aprendizagem
 
 Pessoas diferentes aprendem de **formas** diferentes em **tempos** diferentes
+
+Em suma, temos quatro estilos de aprendizado:
+
+1. Acomodador: aprende com o que o outro tem a dizer.
+2. Divergente: aprende debatendo ideias. Utiliza da intuição e imaginação.
+3. Convergente: aprendem resolvendo problemas.
+4. Assimilador: aprendem analisando e observando.
 
 Percepção x Processamento
 ![alt](img/percepcao-processamento.jpg)
@@ -99,6 +110,7 @@ Lembretes
 - Fique perto de gente melhor que você! Se desafie a ser mais, a ir além
 - Encontro seu ponto de equilíbrio do Flow
 
+### Como passar para a zona de aprendizagem
 Pense em uma situação de aprendizagem que você já viveu e que teve dificuldades em sair da zona de estresse. Como foi essa situação? O que o deixou preso na zona de estresse?
 R:
 
@@ -111,11 +123,11 @@ R:
 
 Disciplina é questão de hábito
 
-[link para curso de hábitos da Alura no meu github](https://)
+[link para curso de hábitos da Alura no meu github](https://cursos.alura.com.br/course/habitos)
 
-Maxwell Maltz, 1960, 21 days a Habit
-
-Phillippa Lally, 2009, 66 days 
+Estudos  sobre hábitos
+- Maxwell Maltz, 1960, Livro *21 days a Habit*
+- Phillippa Lally, 2009, 66 days 
 
 ### Hábitos
 1. Disposição: Momento que desencadeia a ação, gatilho 
