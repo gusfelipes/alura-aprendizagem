@@ -482,6 +482,7 @@ R:
 
 Blocos de informação
 
+![medindo a evolução](img/medindo-evolucao.jpg)
 
 ### O que aprendemos nesta aula:
 
@@ -496,3 +497,51 @@ Blocos de informação
 - Medindo os blocos de aprendizagem
 - Uma matriz para acompanhar a evolução
 - Quantos planos de estudo eu posso ter?
+
+# 5. Rotina de Aprendizagem
+
+**Procrastinação:** Adiar algo importante que deve ser feito com a desculpa de ainda ter tempo para realizá-lo posteriormente. Nesse processo, criar uma série de desculpas para justificar o atraso.
+
+> Nosso cérebro está programado para economizar energia e repetir padrões conhecidos e confortáveis, por isso que ficamos em um círculo vicioso de protelação.
+
+Precisamos de tempo para que os blocos de conhecimento sedimentem, mas se ficarmos procrastinando cairemos na técnica da decoreba.
+
+A estratégia nesses casos é, de fato, conseguirmos ter disciplina e consistência. Devemos no estruturar e nos organizar. A recorrência é aquilo que nos faz chegar ao ponto que precisamos e continuar aprendendo de maneira estruturada.
+
+No início do curso elencamos alguns pontos que dificultam a disciplina:
+
+- falta de ~~tempo~~ priorização;
+- internet;
+- outras tarefas em mente;
+- desorganização;
+- pessoas que te procuram;
+- medo de mudança.
+
+Algumas dicas para driblar esses problemas e atingir o foco nos estudos:
+
+1. Metas claras
+2. Processos de aprendizado
+3. Hábitos
+4. Ralos de atenção
+5. Exercite além do cérebro
+
+## Planeje sua Rotina
+
+Para você começar a se beneficiar destas técnicas, planeje sua rotina da próxima semana considerando:
+
+- METAS CLARAS: Qual a sua meta de aprendizagem? E quais conhecimentos e atitudes você precisa aprender e/ou aplicar para chegar lá?
+- PROCESSO DE APRENDIZADO: Qual será sua rotina semanal com horários de treino e de pausa para desenvolver estes conhecimentos e atitudes?
+- HÁBITOS: qual o hábito que você pode criar para chegar lá? Quais serão a disposição, a rotina e a recompensa para chegar lá?
+- RALOS DE ATENÇÃO: quais os cuidados deve tomar para eliminar os ralos de atenção para este plano de ação
+- EXERCITE ALÉM DO CÉREBRO: que atividade física você irá manter e/ou incluir na sua rotina para fomentar este desenvolvimento?
+
+## Gestão de Tempo e Espaço
+
+## Agenda Semanal
+
+## Exercite Corpo e Mente
+
+## O Poder das Atividades Simples
+
+## Ferramentas
+
